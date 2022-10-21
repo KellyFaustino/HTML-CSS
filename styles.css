@@ -40,11 +40,13 @@ body {
     display: block;
     text-decoration: none;
     margin-bottom: 1em;
+    color: var(--branco-principal);
 }
 
 .botao_secundario {
     background-color: transparent;
-    border: 2px solid var(--branco-principal)
+    border: 2px solid var(--branco-principal);
+    color: var(--branco-principal);
 }
 
 .container__aviso {
